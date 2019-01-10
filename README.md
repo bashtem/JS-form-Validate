@@ -1,6 +1,3 @@
-# hello-world
+# JS form Validate
 
-<?php
-echo "Hello World";
-
-?>
+Validate you form with Javascript....
